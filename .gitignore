@@ -59,6 +59,9 @@ target/
 
 # DotEnv configuration
 .env
+onlinemlops/
+data/
+data_source/
 
 # Database
 *.db

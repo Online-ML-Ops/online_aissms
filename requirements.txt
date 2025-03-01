@@ -4,3 +4,12 @@ mlflow
 scikit-learn
 psycopg2
 psycopg2-binary
+dvc
+keras
+matplotlib
+seaborn
+tensorflow
+joblib
+PyYaml
+streamlit
+
